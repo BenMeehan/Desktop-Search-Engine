@@ -1,6 +1,6 @@
 # Desktop File Index Search
 This Python application allows you to search for files and folders super quick especially when there are so many of them.
-![index](https://imgur.com/ALWkkjC)
+![Imgur](https://imgur.com/ALWkkjC)
 ## How to run
 
 Just clone this repository into a folder and run the gui.py file.
